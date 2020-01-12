@@ -1,5 +1,5 @@
 #! /bin/bash
-# this is a comment
+# this is a comment ! code is below
 echo "Hello World" #this iS also a comment
 
 echo $BASH
